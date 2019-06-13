@@ -1,0 +1,1 @@
+The intent of this repo is a working place to learn Scala.  I will be adding new Scala examples as I venture down the path.
